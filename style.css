@@ -228,6 +228,6 @@ a{
 }
 @media (max-width :768px){
     .sidebar{
-        width: 10rem;
+        display: none;
     }
 }
