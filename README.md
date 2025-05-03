@@ -35,9 +35,9 @@ No installations required. You just need a modern web browser.
 That's it! Enjoy exploring the UI.
 
 📷 Screenshots
-![Spotify Clone Screenshot](images/screenshot1.png)
-![Spotify Clone Screenshot](images/screenshot2.png)
-![Spotify Clone Screenshot](images/screenshot3.png)
+![Spotify Clone Screenshot](images/screenshot1.PNG)
+![Spotify Clone Screenshot](images/screenshot2.PNG)
+![Spotify Clone Screenshot](images/screenshot3.PNG)
 
 🙌 Acknowledgements
    Inspired by Spotify's official UI
