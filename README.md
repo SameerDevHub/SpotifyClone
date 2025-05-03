@@ -35,5 +35,20 @@ No installations required. You just need a modern web browser.
 That's it! Enjoy exploring the UI.
 
 📷 Screenshots
+![Spotify Clone Screenshot](images/screenshot1.png)
+![Spotify Clone Screenshot](images/screenshot2.png)
+![Spotify Clone Screenshot](images/screenshot3.png)
+
+🙌 Acknowledgements
+   Inspired by Spotify's official UI
+   Icons sourced from [Font Awesome] or similar libraries
+
+💡 Future Improvements
+   Add actual music playback with JavaScript
+   Responsive design for mobile and tablets
+   User authentication and playlists
+
+
+
 
 
